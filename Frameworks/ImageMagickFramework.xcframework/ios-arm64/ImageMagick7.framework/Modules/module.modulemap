@@ -1,0 +1,6 @@
+framework module ImageMagick7 {
+  umbrella header "ImageMagick7-umbrella.h"
+
+  export *
+  module * { export * }
+}
